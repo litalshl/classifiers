@@ -1,5 +1,4 @@
 ﻿Time Started,Cognitive Task,Screens
-0:00:00,Data Exploration,Supporting material
 0:02:42,Data Exploration,Map
 0:02:47,Data Exploration,Supporting material
 0:03:00,Data Exploration,Map
@@ -32,24 +31,24 @@
 0:10:36,Assess Results,Statistics
 0:10:49,Assess Results,Statistics
 0:10:55,Assess Results,Map
-0:11:01,Generate Plan,Filter
+0:11:01,Focus,Filter
 0:11:13,Test Hypothesis,Filter
 0:11:23,Assess Results,Map
 0:11:26,Assess Results,Statistics
 0:11:55,Assess Results,Statistics
 0:12:01,Assess Results,Statistics
 0:12:15,Assess Results,Map
-0:12:40,Generate Plan,Filter
-0:12:51,Generate Plan,Map
-0:12:54,Generate Plan,Filter
-0:13:05,Generate Plan,Map
-0:13:11,Generate Plan,Statistics
-0:13:12,Generate Plan,Filter
-0:14:04,Generate Plan,Statistics
-0:14:08,Generate Plan,Map
-0:14:14,Generate Plan,Filter
-0:14:19,Generate Plan,Map
-0:14:31,Generate Plan,Filter
+0:12:40,Focus,Filter
+0:12:51,Set Goal,Map
+0:12:54,Focus,Filter
+0:13:05,Set Goal,Map
+0:13:11,Set Goal,Statistics
+0:13:12,Focus,Filter
+0:14:04,Set Goal,Statistics
+0:14:08,Set Goal,Map
+0:14:14,Focus,Filter
+0:14:19,Set Goal,Map
+0:14:31,Focus,Filter
 0:14:43,Test Hypothesis,Filter
 0:14:58,Test Hypothesis,Filter
 0:15:12,Assess Results,Statistics
@@ -59,11 +58,11 @@
 0:16:11,Test Hypothesis,Filter
 0:16:20,Assess Results,Statistics
 0:16:25,Assess Results,Filter
-0:16:33,Generate Plan,Filter
+0:16:33,Focus,Filter
 0:16:45,Test Hypothesis,Filter
 0:16:53,Test Hypothesis,Filter
 0:16:58,Assess Results,Statistics
-0:17:04,Generate Plan,Map
+0:17:04,Set Goal,Map
 0:17:24,Test Hypothesis,Filter
 0:17:30,Assess Results,Map
 0:17:40,Assess Results,Statistics
@@ -71,30 +70,30 @@
 0:18:00,Conclude,Statistics
 0:18:05,Conclude,Supporting material
 0:18:14,Generate Hypothesis,Statistics
-0:18:27,Generate Plan,Statistics
-0:18:35,Generate Plan,Statistics
-0:18:45,Generate Plan,Map
-0:18:54,Generate Plan,Map
-0:18:56,Generate Plan,Map
-0:19:06,Generate Plan,Map
+0:18:27,Set Goal,Statistics
+0:18:35,Set Goal,Statistics
+0:18:45,Set Goal,Map
+0:18:54,Set Goal,Map
+0:18:56,Set Goal,Map
+0:19:06,Set Goal,Map
 0:19:19,Test Hypothesis,Filter
-0:19:27,Generate Plan,Statistics
+0:19:27,Set Goal,Statistics
 0:19:31,Test Hypothesis,Filter
-0:19:50,Generate Plan,Supporting material
+0:19:50,Set Goal,Supporting material
 0:20:16,Test Hypothesis,Filter
-0:20:27,Generate Plan,Map
-0:20:47,Generate Plan,Supporting material
-0:21:01,Generate Plan,Supporting material
+0:20:27,Set Goal,Map
+0:20:47,Set Goal,Supporting material
+0:21:01,Set Goal,Supporting material
 0:21:10,Generate Hypothesis,Map
-0:21:38,Generate Plan,Map
+0:21:38,Set Goal,Map
 0:21:50,Test Hypothesis,Filter
 0:21:59,Assess Results,Map
 0:22:16,Conclude,Map
-0:22:58,Generate Plan,Map
-0:23:29,Generate Plan,Map
+0:22:58,Set Goal,Map
+0:23:29,Set Goal,Map
 0:23:44,Generate Hypothesis,Map
 0:23:58,Generate Hypothesis,Map
-0:24:06,Generate Plan,Filter
+0:24:06,Focus,Filter
 0:24:20,Test Hypothesis,Filter
 0:24:49,Assess Results,Supporting material
 0:25:03,Assess Results,Map
@@ -108,14 +107,14 @@
 0:27:10,Generate Hypothesis,Map
 0:27:17,Generate Hypothesis,Supporting material
 0:27:32,Generate Hypothesis,Map
-0:27:40,Generate Plan,Map
-0:27:53,Generate Plan,Supporting material
-0:28:00,Generate Plan,Supporting material
-0:28:50,Generate Plan,Supporting material
-0:29:37,Generate Plan,Map
-0:29:48,Generate Plan,Filter
-0:30:16,Generate Plan,Supporting material
-0:30:23,Generate Plan,Filter
+0:27:40,Set Goal,Map
+0:27:53,Set Goal,Supporting material
+0:28:00,Set Goal,Supporting material
+0:28:50,Set Goal,Supporting material
+0:29:37,Set Goal,Map
+0:29:48,Focus,Filter
+0:30:16,Set Goal,Supporting material
+0:30:23,Focus,Filter
 0:30:38,Test Hypothesis,Filter
 0:30:52,Assess Results,Map
 0:31:10,Assess Results,Map
@@ -123,17 +122,17 @@
 0:31:18,Assess Results,Statistics
 0:31:29,Assess Results,Map
 0:31:42,Assess Results,Map
-0:31:48,Generate Plan,Filter
-0:31:50,Generate Plan,Statistics
-0:32:26,Generate Plan,Statistics
-0:32:58,Generate Plan,Statistics
+0:31:48,Focus,Filter
+0:31:50,Set Goal,Statistics
+0:32:26,Set Goal,Statistics
+0:32:58,Set Goal,Statistics
 0:33:25,Generate Hypothesis,Statistics
 0:33:39,Generate Hypothesis,Supporting material
 0:33:46,Generate Hypothesis,Statistics
 0:33:54,Generate Hypothesis,Statistics
-0:34:01,Generate Plan,Filter
-0:34:12,Generate Plan,Statistics
-0:34:15,Generate Plan,Map
+0:34:01,Focus,Filter
+0:34:12,Set Goal,Statistics
+0:34:15,Set Goal,Map
 0:34:39,Test Hypothesis,Filter
 0:34:54,Test Hypothesis,Filter
 0:35:37,Assess Results,Map
@@ -158,7 +157,7 @@
 0:40:14,Assess Results,Map
 0:40:27,Conclude,Statistics
 0:40:45,Conclude,Supporting material
-0:41:12,Generate Plan,Statistics
+0:41:12,Set Goal,Statistics
 0:41:18,Test Hypothesis,Filter
 0:41:45,Assess Results,Statistics
 0:41:55,Assess Results,Map
