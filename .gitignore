@@ -127,13 +127,31 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-random_forest_classifier_2023-05-05_20-34-30.pkl
-random_forest_classifier_2023-05-05_20-38-31.pkl
-random_forest_classifier_2023-05-05_20-42-48.pkl
-random_forest_classifier_2023-05-05_20-43-50.pkl
+random_forest_classifier_*
 sampled_data_2023-05-05_20-32-04.csv
 sampled_data_2023-05-05_20-38-31.csv
 sampled_data_2023-05-05_20-42-48.csv
 sampled_data_2023-05-05_20-43-50.csv
-grade groups model/models data and pickles/sampled_data_2023-05-05_21-51-07.csv
-grade groups model/random_forest_classifier_2023-05-05_21-51-07.pkl
+grade groups model/Anger_grades_stats.html
+grade groups model/Anger_grades_stats.html_screenshot.png
+grade groups model/Confusion_grades_stats.html
+grade groups model/Confusion_grades_stats.html_screenshot.png
+grade groups model/Contempt_grades_stats.html
+grade groups model/Contempt_grades_stats.html_screenshot.png
+grade groups model/Disgust_grades_stats.html
+grade groups model/Disgust_grades_stats.html_screenshot.png
+grade groups model/Engagement_grades_stats.html
+grade groups model/Engagement_grades_stats.html_screenshot.png
+grade groups model/Fear_grades_stats.html
+grade groups model/Fear_grades_stats.html_screenshot.png
+grade groups model/Joy_grades_stats.html
+grade groups model/Joy_grades_stats.html_screenshot.png
+grade groups model/Sadness_grades_stats.html
+grade groups model/Sadness_grades_stats.html_screenshot.png
+grade groups model/Sentimentality_grades_stats.html
+grade groups model/Sentimentality_grades_stats.html_screenshot.png
+grade groups model/Surprise_grades_stats.html
+grade groups model/Surprise_grades_stats.html_screenshot.png
+grade groups model/Valence_grades_stats.html
+grade groups model/Valence_grades_stats.html_screenshot.png
+grade groups model/random_forest_classifier_*
