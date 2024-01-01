@@ -2,7 +2,7 @@ Time Started,Cognitive Task,Screens
 0:00:05,Task Understanding,Supporting Material
 0:01:49,N/A,
 0:02:42,Explore,Map
-0:03:35,Set Goal,Filter
+0:03:35,Manage Goal,Filter
 0:03:57,Test Hypothesis,Filter
 0:04:16,Explore,Supporting Material
 0:05:06,N/A,
@@ -15,22 +15,22 @@ Time Started,Cognitive Task,Screens
 0:08:44,Explore,Statistics
 0:09:07,Explore,Supporting Material
 0:09:14,Explore,Statistics
-0:09:40,Set Goal,
+0:09:40,Manage Goal,
 0:09:57,Test Hypothesis,Filter
-0:10:34,Create Artifact,Save Filter
+0:10:34,Focus,Save Filter
 0:11:09,Asses Results,Filtered Map
 0:11:34,Asses Results,Statistics
-0:12:05,Refine Goal,
+0:12:05,Manage Goal,
 0:12:28,Explore,Statistics
 0:13:01,Test Hypothesis,Filter
 0:13:26,Explore,Supporting Material
 0:14:09,Test Hypothesis,Filter
 0:14:23,Explore,Supporting Material
 0:14:37,Test Hypothesis,Filter
-0:14:53,Create Artifact,Save Filter
+0:14:53,Focus,Save Filter
 0:15:07,Asses Results,Filtered Map
 0:15:20,Asses Results,Statistics
-0:15:32,Refine Goal,
+0:15:32,Manage Goal,
 0:15:56,Explore,Supporting Material
 0:16:06,Test Hypothesis,Filter
 0:16:36,Explore,Map
@@ -41,13 +41,13 @@ Time Started,Cognitive Task,Screens
 0:19:02,Explore,Supporting Material
 0:19:18,Test Hypothesis,Statistics
 0:19:48,Test Hypothesis,Filter
-0:20:52,Create Artifact,Save Filter
+0:20:52,Focus,Save Filter
 0:21:11,Asses Results,Filtered Map
-0:21:50,Refine Goal,
+0:21:50,Manage Goal,
 0:21:51,Test Hypothesis,Filter
-0:22:04,Create Artifact,Save Filter
+0:22:04,Focus,Save Filter
 0:22:18,Asses Results,Filtered Map
-0:22:47,Refine Goal,
+0:22:47,Manage Goal,
 0:22:49,Test Hypothesis,Filter
 0:23:13,Asses Results,Filtered Map
 0:23:33,Test Hypothesis,Filter
@@ -57,33 +57,33 @@ Time Started,Cognitive Task,Screens
 0:24:14,Test Hypothesis,Filter
 0:24:25,Asses Results,Filtered Map
 0:24:36,Conclude,
-0:24:59,Refine Goal,
+0:24:59,Manage Goal,
 0:25:02,Test Hypothesis,Filter
 0:26:34,Asses Results,Filtered Map
 0:26:44,Test Hypothesis,Filter
 0:26:51,Asses Results,Filtered Map
 0:27:14,Test Hypothesis,Filter
 0:27:42,Asses Results,Statistics
-0:28:56,Refine Goal,
+0:28:56,Manage Goal,
 0:29:25,Conclude,
-0:29:43,Refine Goal,
+0:29:43,Manage Goal,
 0:30:25,Explore,Cases
 0:30:49,Explore,Statistics
 0:31:08,Explore,Supporting Material
-0:31:27,Refine Goal,
+0:31:27,Manage Goal,
 0:31:33,Test Hypothesis,Filter
-0:31:58,Create Artifact,Save Filter
+0:31:58,Focus,Save Filter
 0:32:15,Asses Results,Filtered Map
 0:32:23,Asses Results,Statistics
 0:32:29,Asses Results,Filtered Map
 0:32:33,Test Hypothesis,Filter
 0:33:00,Asses Results,Filtered Map
-0:33:30,Refine Goal,
+0:33:30,Manage Goal,
 0:33:31,Test Hypothesis,Filter
 0:33:41,Asses Results,Filtered Map
 0:33:52,Test Hypothesis,Filter
 0:34:21,Asses Results,Filtered Map
-0:34:45,Refine Goal,
+0:34:45,Manage Goal,
 0:34:50,Explore,Supporting Material
 0:35:07,Generate Hypothesis,Supporting Material
 0:35:09,Test Hypothesis,Filter
